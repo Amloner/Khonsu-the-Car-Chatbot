@@ -4,7 +4,7 @@ A simple chat interface that answers questions about cars using a Neo4j database
 
 ## Screenshot
 
-![Screenshot](https://github.com/Amloner/Car-Chatbot/assets/124287518/68e69fb8-5de0-4a94-83fa-308b456f1cde)
+<img width="1107" alt="image" src="https://github.com/Amloner/Khonsu-the-Car-Chatbot/assets/124287518/a05fdd47-788f-40c2-9d7f-c84c6e672d94">
 
 ## Usage
 
